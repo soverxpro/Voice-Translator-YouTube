@@ -11,19 +11,21 @@
 
 1. **Скачайте и установите Git и NodeJS 18:**
   * **Git:** [https://www.git-scm.com/download/win](https://www.git-scm.com/download/win)
+   
   * **NodeJS 18:** [https://nodejs.org/en/download/package-manager](https://nodejs.org/en/download/package-manager)
-2. **Сохраните скрипт Voice-Translator-YouTube.ps1:**
+  
+3. **Сохраните скрипт Voice-Translator-YouTube.ps1:**
   * Скопируйте текст скрипта из этого сообщения.
   * Сохраните его как файл с именем **Voice-Translator-YouTube.ps1**.
   * Или просто загрузите его от сюда!
-3. **Запустите скрипт:**
+4. **Запустите скрипт:**
   * Откройте PowerShell с правами администратора.
   * Перейдите в папку, где сохранен скрипт.
   * Введите команду: `.\Voice-Translator-YouTube.ps1`
-4. **Установите расширения:**
+5. **Установите расширения:**
   * **Chrome:** [https://www.tampermonkey.net/](https://www.tampermonkey.net/)
   * **Safari:** [https://userscripts.org/](https://userscripts.org/)
-5. **Выберите скрипт:**
+6. **Выберите скрипт:**
   * **Cloudflare Script:** [https://github.com/ilyhalight/voice-over-translation/releases](https://github.com/ilyhalight/voice-over-translation/releases)
   * **UserScript:** [https://github.com/ilyhalight/voice-over-translation/releases](https://github.com/ilyhalight/voice-over-translation/releases)
 
