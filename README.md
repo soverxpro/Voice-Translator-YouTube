@@ -10,8 +10,8 @@
 **Как это работает?**
 
 1. **Скачайте и установите Git и NodeJS 18:**
-  * **Git:** [https://www.git-scm.com/download/win](https://www.git-scm.com/download/win)
    
+  * **Git:** [https://www.git-scm.com/download/win](https://www.git-scm.com/download/win)
   * **NodeJS 18:** [https://nodejs.org/en/download/package-manager](https://nodejs.org/en/download/package-manager)
   
 3. **Сохраните скрипт Voice-Translator-YouTube.ps1:**
