@@ -1,4 +1,4 @@
-# PowerShell скрипт для клонирования репозитория, выполнения команд сборки и удаления папки проекта
+
 
 # Настройка кодировки на UTF-8
 [Console]::OutputEncoding = [System.Text.Encoding]::UTF8
