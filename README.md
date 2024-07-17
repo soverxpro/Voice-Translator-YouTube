@@ -15,7 +15,7 @@
     * **Git:** [https://www.git-scm.com/download/win](https://www.git-scm.com/download/win)
     * **NodeJS 18:** [https://nodejs.org/en/download/package-manager](https://nodejs.org/en/download/package-manager)
 2. **Сохраните скрипт Voice-Translator-YouTube.ps1:**
-   ** ПЕРЕД ЗАПУСКОМ СКРИПТА! Обязательно введите в PowerShell ( Set-ExecutionPolicy -Scope Process -ExecutionPolicy Bypass -Force )
+    * ПЕРЕД ЗАПУСКОМ СКРИПТА! Обязательно введите в PowerShell ( Set-ExecutionPolicy -Scope Process -ExecutionPolicy Bypass -Force )
     * Скопируйте текст скрипта из этого сообщения.
     * Сохраните его как файл с именем **Voice-Translator-YouTube.ps1**.
 3. **Запустите скрипт:**
