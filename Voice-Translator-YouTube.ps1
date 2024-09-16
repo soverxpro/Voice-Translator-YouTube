@@ -74,7 +74,7 @@ Write-Host "All operations completed successfully!" -ForegroundColor Green
 Write-Host "`nPlease install the following extensions:" -ForegroundColor Yellow
 Write-Host "Tampermonkey: https://www.tampermonkey.net/"
 Write-Host "UserScripts (for Safari): https://userscripts.org/"
-Write-Host "Cloudflare Script: https://raw.githubusercontent.com/ilyhalight/voice-over-translation/master/dist/vot-cloudflare.user.js"
+Write-Host "Cloudflare Script: https://raw.githubusercontent.com/ilyhalight/voice-over-translation/master/dist/vot.user.js"
 Write-Host "UserScript: https://raw.githubusercontent.com/ilyhalight/voice-over-translation/master/dist/vot.user.js"
 
 Read-Host "Press Enter to close this window..."
