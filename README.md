@@ -26,7 +26,6 @@
     * **Chrome:** [https://www.tampermonkey.net/](https://www.tampermonkey.net/)
     * **Safari:** [https://userscripts.org/](https://userscripts.org/)
 6. **Выберите скрипт:**
-    * **Cloudflare Script:** [ТУТ](https://raw.githubusercontent.com/ilyhalight/voice-over-translation/master/dist/vot.user.js)
     * **UserScript:** [ТУТ](https://raw.githubusercontent.com/ilyhalight/voice-over-translation/master/dist/vot.user.js)
 
 **И вуаля!** Теперь вы можете **наслаждаться** YouTube-видео на **любом языке**!
